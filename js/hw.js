@@ -67,10 +67,4 @@ console.log(person1);
 
 
 
-//let messyText = "one,,two,,,three,,";
-let messyArray =  ['one', '', 'two', '', '', 'three', '', '']
-
-while(messyArray.includes('')){
-    //remove empty string from the array
-}
 
